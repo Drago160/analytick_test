@@ -1,1 +1,1 @@
-# analytick_test
+#### смотрите файл color_companies.ipynb
